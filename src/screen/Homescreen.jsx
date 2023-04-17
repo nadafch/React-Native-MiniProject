@@ -189,7 +189,7 @@ export default function Homescreen({navigation}) {
                     <Text
                       style={{
                         fontSize: 16,
-                        color: 'grey',
+                        color: 'green',
                         marginBottom: 3,
                         textAlign: 'left',
                       }}>
